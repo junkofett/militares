@@ -21,15 +21,16 @@ public class Main {
        c.ordenarSort();
        c.mostrarTropa();
        System.out.println("hola hola hola");
-       
-<<<<<<< HEAD
+
        System.out.println("");
         System.out.println("prueba de fuego");
-=======
+
        System.out.println("FIRE EXCLAMATION MARK!");
        
+              System.out.println("lo quiero todo");
+       
         System.out.println("");
->>>>>>> origin/master
+
     }
     
 }
