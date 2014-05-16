@@ -25,6 +25,7 @@ public class Cuartel
     {
         tropa = new Militar[numTropas];
         inicializarTropa();
+        System.out.println("questablando looco ajin te muera");
     }
 
     /**
