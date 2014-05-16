@@ -22,6 +22,8 @@ public class Main {
        c.mostrarTropa();
        System.out.println("hola hola hola");
        
+       System.out.println("FIRE EXCLAMATION MARK!");
+       
         System.out.println("");
     }
     
