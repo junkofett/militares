@@ -20,6 +20,6 @@ public class Main {
        c.mostrarTropa();
        c.ordenarSort();
        c.mostrarTropa();
-       System.out.println("hola hola");
+       System.out.println("hola hola hola");
     }
 }
