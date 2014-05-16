@@ -21,5 +21,8 @@ public class Main {
        c.ordenarSort();
        c.mostrarTropa();
        System.out.println("hola hola hola");
+       
+        System.out.println("");
     }
+    
 }
