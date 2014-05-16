@@ -22,7 +22,8 @@ public class Main {
        c.mostrarTropa();
        System.out.println("hola hola hola");
        
-        System.out.println("");
+       System.out.println("");
+        System.out.println("prueba de fuego");
     }
     
 }
